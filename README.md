@@ -27,6 +27,9 @@
 <img width="1792" alt="Screenshot 2023-05-20 at 12 47 44 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/180b24d8-da65-4fbd-bb59-6871a8496706">
 <img width="1792" alt="Screenshot 2023-05-20 at 12 48 17 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/c77f1e6d-df5b-4e98-af99-d4318175bde4">
 <img width="1792" alt="Screenshot 2023-05-20 at 12 48 36 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/57557340-f07d-4971-9bfc-42ec83137e37">
+<img width="1560" alt="Screenshot 2023-05-20 at 12 55 32 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/79aabefc-1229-4df4-a598-b314d2488076">
+<img width="1574" alt="Screenshot 2023-05-20 at 12 56 05 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/469bd944-9363-4f4c-9d6d-1705d6dc6e51">
+
 
 ```
 Features Include
