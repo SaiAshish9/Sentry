@@ -42,3 +42,14 @@ Advanced Integrations
 Spend Allocations
 Extended Data Retention
 ```
+
+```
+I wanted to obtain the parameterized transaction names with the help of browser tracing integration at one of the projects at which I'm currently working on.
+
+I made use of the second method i.e., SentryRoute in order to accomplish this. But it was causing re-renders of many components as soon as
+some property got modified at the store, which is obviously not good for the UX , and also for the performance.
+
+But when I made use of the Route component offered by react-router-dom and the first method as per your's documentation i.e., 
+route config object, everything worked fine. And also at both android as well as ios apps,
+functionality seems to be good so far.
+```
