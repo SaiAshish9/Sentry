@@ -23,3 +23,23 @@
 <img width="1792" alt="Screenshot 2023-05-20 at 12 43 47 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/476b1053-c966-4372-aea9-0227fa714ff6">
 <img width="1792" alt="Screenshot 2023-05-20 at 12 44 06 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/f2d96f75-8d63-4fa9-a0c4-94c448c895e4">
 <img width="1792" alt="Screenshot 2023-05-20 at 12 44 39 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/47af6757-59ba-4f68-a239-d28b59531f6b">
+<img width="1792" alt="Screenshot 2023-05-20 at 12 45 58 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/9f9f9810-ba5a-4066-90fa-9570767eae49">
+<img width="1792" alt="Screenshot 2023-05-20 at 12 46 50 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/252908e6-b2f8-4af9-92c7-1b81074954f9">
+<img width="1792" alt="Screenshot 2023-05-20 at 12 47 44 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/180b24d8-da65-4fbd-bb59-6871a8496706">
+<img width="1792" alt="Screenshot 2023-05-20 at 12 48 17 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/c77f1e6d-df5b-4e98-af99-d4318175bde4">
+<img width="1792" alt="Screenshot 2023-05-20 at 12 48 36 AM" src="https://github.com/SaiAshish9/Sentry/assets/43849911/57557340-f07d-4971-9bfc-42ec83137e37">
+
+```
+Features Include
+
+Cross-Project Visibility
+Distributed Tracing
+Advanced Queries
+Change Alerts
+Event Volume Controls
+Custom Dashboards
+SAML2 Sign In
+Advanced Integrations
+Spend Allocations
+Extended Data Retention
+```
