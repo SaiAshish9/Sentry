@@ -1,9 +1,12 @@
 import React from 'react'
+import * as Sentry from "@sentry/react";
 
 const Child = () => {
 
   function handleException(){
-    throw new Error("Exception Thrown");
+    Sentry.captureMessage("this is a debug message", "debug");
+    console.log("Test")
+    // throw new Error("Exception Thrown");
   }
 
   return (

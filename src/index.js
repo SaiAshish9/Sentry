@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import * as Sentry from "@sentry/react";
 
 Sentry.init({
-  dsn: "https://681e392f307842f088e9d7309411f3bd@o4505212046475264.ingest.sentry.io/4505212064301056",
+  dsn: "",
   integrations: [new Sentry.BrowserTracing(), new Sentry.Replay()],
   autoSessionTracking: true,
   // Performance Monitoring
@@ -15,6 +15,11 @@ Sentry.init({
   replaysSessionSampleRate: 0.1, // This sets the sample rate at 10%. You may want to change it to 100% while in development and then sample at a lower rate in production.
   replaysOnErrorSampleRate: 1.0, // If you're not already sampling the entire session, change the sample rate to 100% when sampling sessions where errors occur.
 });
+
+Sentry.configureScope(function (scope) {
+  scope.setLevel("log");
+});
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
